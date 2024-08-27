@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("learningapp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MyLearningAZ204")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("learningapp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("learningapp")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d12098048f6bc73c4f27f2abffbe8eefca8701")]
+[assembly: System.Reflection.AssemblyProductAttribute("MyLearningAZ204")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MyLearningAZ204")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

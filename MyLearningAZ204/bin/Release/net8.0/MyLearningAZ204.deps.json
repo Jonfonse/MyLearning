@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "learningapp/1.0.0": {
+      "MyLearningAZ204/1.0.0": {
         "runtime": {
-          "learningapp.dll": {}
+          "MyLearningAZ204.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "learningapp/1.0.0": {
+    "MyLearningAZ204/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

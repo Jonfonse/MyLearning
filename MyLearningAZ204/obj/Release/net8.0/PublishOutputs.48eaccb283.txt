@@ -1,0 +1,6 @@
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\MyLearningAZ204.exe
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\appsettings.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\MyLearningAZ204.dll
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\MyLearningAZ204.deps.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\MyLearningAZ204.runtimeconfig.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\newNet\MyLearningAZ204\bin\Publish\MyLearningAZ204.pdb
